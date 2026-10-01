@@ -1,5 +1,3 @@
-# Your first Linux server commands
-
 - [00-FIRST_COMMANDS.md](00-FIRST_COMMANDS.md) - update, patch and secure a fresh server
 - [01-TROUBLESHOOT.md](01-TROUBLESHOOT.md) - slow server, full disk, failed service or boot
 - [02-HARDEN.md](02-HARDEN.md) - SSH keys and sshd hardening
